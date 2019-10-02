@@ -1,2 +1,2 @@
-# docker-gobgpd
+# docker-gobgp
 Containerized gobgp daemon
